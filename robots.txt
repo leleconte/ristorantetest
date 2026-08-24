@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.l-store.it/sitemap.xml

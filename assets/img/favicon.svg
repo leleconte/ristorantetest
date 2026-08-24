@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="t d">
+  <title id="t">L-STORE</title>
+  <desc id="d">Monogramma L-STORE</desc>
+  <rect width="120" height="120" fill="none"/>
+  <path d="M28 18v84h60" fill="none" stroke="#171613" stroke-width="5" stroke-linecap="square"/>
+  <path d="M46 36h32" fill="none" stroke="#171613" stroke-width="3" opacity=".78"/>
+  <path d="M46 54h22" fill="none" stroke="#171613" stroke-width="3" opacity=".58"/>
+  <circle cx="84" cy="84" r="10" fill="#a94f36"/>
+</svg>
